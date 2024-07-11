@@ -1,0 +1,179 @@
+# Schema for the configuration files of the Emulsify Subtheme.
+
+emulsify_training.settings:
+  type: theme_settings
+  label: 'Theme settings'
+  mapping:
+
+# Color.
+# ----------------------------
+color_a:
+  type: text
+  label: 'Primary Color. Will be used as a main color throughout the site. Must be AA compliant.'
+color_b:
+  type: text
+  label: 'Secondary Color. Will be used as a main color throughout the site. Must be AA compliant.'
+color_c:
+  type: text
+  label: 'Includes the option to select a radial gradient variation (white in the center, assigned color on the outside) or keep the default flat color. Accent Color. Will be used for visual accents throughout the site. Must be AA compliant.'
+color_d:
+  type: text
+  label: 'Accent Color. Will be used for visual accents throughout the site. Must be AA compliant.'
+color_e:
+  type: text
+  label: 'Accent Color. Will be used for visual accents throughout the site. Must be AA compliant.'
+color_f:
+  type: text
+  label: 'Accent Color. Will be used for visual accents throughout the site. Must be AA compliant.'
+card_background:
+  type: text
+  label: 'Accent Color. Will be used for visual accents throughout the site. Must be AA compliant.'
+card_title:
+  type: text
+  label: 'Card Title'
+card_eyebrow:
+  type: text
+  label: 'Card Eyebrow'
+top_nav:
+  type: text
+  label: 'Footer top part Color. Will be used for visual accents throughout the site. Must be AA compliant.'
+top_nav_gradient:
+  type: text
+  label: 'Footer top part gradient Color. Will be used for visual accents throughout the site. Must be AA compliant.'
+footer_top:
+  type: text
+  label: 'Footer top color.'
+footer_top_gradient:
+  type: text
+  label: 'Footer top gradient color.'
+bottom_nav:
+  type: text
+  label: 'Footer bottom part Color.'
+language_region_selector_text_color:
+  type: text
+  label: 'Language and region selector text color.'
+product_filter_arrow_color:
+  type: text
+  label: 'Product filter arrow color.'
+product_filter_clearall_color:
+  type: text
+  label: 'Product filter clearall text color.'
+product_filter_tickmark_color:
+  type: text
+  label: 'Product filter tickmark color.'
+entrygate_background_color:
+  type: text
+  label: 'Entrygate background color.'
+entrygate_title_color:
+  type: text
+  label: 'Entrygate heading color.'
+entrygate_text_color:
+  type: text
+  label: 'Entrygate other text color.'
+entrygate_date_color:
+  type: text
+  label: 'Entrygate input field inside date color.'
+entrygate_alert_color:
+  type: text
+  label: 'Entrygate alert message color.'
+cookie_banner:
+  type: text
+  label: 'Cookie banner inner radial color.'
+cookie_banner_gradient:
+  type: text
+  label: 'Cookie banner outer radial color.'
+cookie_banner_text:
+  type: text
+  label: 'Cookie banner text color.'
+cookie_banner_close:
+  type: text
+  label: 'Cookie banner close icon color.'
+cookie_banner_brand_border:
+  type: text
+  label: 'Cookie banner brand border.'
+cookie_banner_override:
+  type: text
+  label: 'Enable default cookie banner.'
+supercharged_freeform_text_color:
+  type: text
+  label: 'Supercharged freeform text color.'
+supercharged_freeform_background_color:
+  type: text
+  label: 'Supercharged freeform background color.'
+supercharged_freeform_link_text_color:
+  type: text
+  label: 'Supercharged freeform link text color.'
+supercharged_freeform_button_background_color:
+  type: text
+  label: 'Supercharged freeform button background color.'
+supercharged_card_text_color:
+  type: text
+  label: 'Supercharged card text color.'
+supercharged_card_background_color:
+  type: text
+  label: 'Supercharged card background color.'
+supercharged_card_link_text_color:
+  type: text
+  label: 'Supercharged card link text color.'
+supercharged_card_button_background_color:
+  type: text
+  label: 'Supercharged card button background color.'
+
+# Font.
+# ----------------------------
+headline_font_path:
+  type: text
+  label: 'Primary Typeface'
+primary_font_path:
+  type: text
+  label: 'Secondary Typeface'
+secondary_font_path:
+  type: text
+  label: 'Tertiary Typeface'
+
+# Icons.
+# ----------------------------
+graphic_divider:
+  type: text
+  label: 'Will be designed by each brand team. Size and format requirements detailed out in the Style Guide.'
+brand_shape:
+  type: text
+  label: 'Will be designed by each brand team. Size and format requirements detailed out in the Style Guide.'
+brand_borders:
+  type: text
+  label: 'Will be designed by each brand team. Size and format requirements detailed out in the Style Guide.'
+brand_borders_2:
+  type: text
+  label: 'Will be designed by each brand team. Size and format requirements detailed out in the Style Guide.'
+png_asset:
+  type: text
+  label: 'Will be designed by each brand team. Size and format requirements detailed out in the Style Guide.'
+button_style:
+  type: integer
+  label: 'Designates rounded buttons or sharp corner buttons and card corner. For example: 5px.'
+
+# Product layout settings.
+# ----------------------------
+show_allergen_info:
+  type: boolean
+  label: 'Show allergen info at product details.'
+
+# Product rating and reviews settings.
+# ----------------------------
+show_rating_and_reviews:
+  type: boolean
+  label: 'Show rating and reviews for all products.'
+
+# Social links.
+# ----------------------------
+social_links:
+  type: sequence
+  sequence:
+    type: mapping
+    mapping:
+      name:
+        type: label
+      link:
+        type: text
+      icon:
+        type: integer

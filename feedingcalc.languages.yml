@@ -1,0 +1,1041 @@
+en:
+  article: "ARTICLE"
+  apply: "APPLY"
+  back: "BACK"
+  clearAll: "CLEAR ALL"
+  content: "PAGE"
+  filters: "Filters"
+  product: "PRODUCT"
+  step: "STEP"
+  of: "OF"
+  redrecyle: "RED RECYCLE"
+  matchResult: "See --petname--'s tailored nutrition recommendation below."
+  matchNoresult: "Unfortunately, we don’t have a product that matches. Would you like to try another search?"
+  share: "Share"
+  cookieRigthText: "You ok with our use of cookies?"
+  adoptionDesc: "Please select an option below"
+  pollVote: "Vote"
+  pollResult: "See Results (Admin only)"
+  cookieText: "Cookie Settings"
+  chatBtnText: "Chat with us"
+  productLandingUrl: "all-products"
+  view: "View"
+  waltham: "WALTHAM"
+  # buynow: "Buy online"
+  learnMoreText: "Learn more"
+  readMore: "Read more"
+  calculator:
+    name: "Name"
+    mixedFeeding: "Mixed Feeding"
+    dryFeeding: "Dry Only"
+    wetFeeding: "Wet Only"
+    dryFood: "Dry Food"
+    wetFood: "Wet Food"
+    careFood: "Care"
+    kg: "kg"
+    mixedInfo: "*A pouch is 100g and a can 400g"
+    wetInfo: "*A can 400g"
+    addPouch: "Add pouch"
+    addCan: "Add can"
+    calorie: "calories"
+    stick: "1 stick a day"
+    g: "g"
+    ages:
+      0: "Pick Age"
+      2: "2 months"
+      4: "4 months"
+      6: "6 months"
+      9: "9 months"
+      12: "12 months"
+      18: "18 months"
+      24: "2 years"
+      36: "3 years"
+      48: "4 years"
+      60: "5 years"
+      72: "6 years"
+      84: "7 years"
+      96: "8 years"
+      108: "9 years"
+      120: "10 years"
+      132: "11 years"
+      144: "12 years"
+      156: "13 years"
+      168: "14 years"
+      180: "15 years"
+      192: "16 years"
+      204: "17 years"
+      216: "18 years"
+      228: "19 years"
+      240: "20 years"
+  guaranteedAnalysis:
+    field_crude_protein: "Crude Protein"
+    field_crude_fat_min: "Crude Fat (min.)"
+    field_crude_fat_max: "Crude Fat (max.)"
+    field_crude_fiber: "Crude Fiber"
+    field_ash: "Ash"
+    field_linoleic_acid: "Linoleic Acid"
+    field_doco_acid: "Docosahexaenoic Acid (DHA)"
+    field_calcium: "Calcium"
+    field_phosphorus: "Phosphorus"
+    field_potassium: "Potassium"
+    field_magnesium: "Magnesium"
+    field_selenium: "Selenium (Sodium selenite)"
+    field_vitamin_e: "Vitamin E"
+    field_taurine: "Taurine"
+    field_lcarnitine: "L-Carnitine"
+    field_omega3: "Omega-3 Fatty Acids"
+    field_omega6: "Omega-6 Fatty acids"
+    field_beta_carotene: "Beta Carotene"
+    field_glucosamine: "Glucosamine"
+    field_chondroitin: "Chondroitin Sulfate"
+    field_moisture: "Moisture"
+    field_zinc: "Zinc (Zinc sulphate, monohydrate)"
+id:
+  article: "Artikel"
+  apply: "Terapkan"
+  back: "Kembali"
+  clearAll: "HAPUS SEMUA"
+  content: "Halaman"
+  filters: "Filter"
+  product: "Produk"
+  step: "langkah"
+  of: "dari"
+  matchResult: "Lihat rekomendasi nutrisi khusus --petname-- di bawah ini."
+  matchNoresult: "sesuai. Mau coba pencarian lain ?"
+  share: "Bagikan"
+  learnMoreText: "Pelajari lagi lebih lanjut"
+  cookieText: "Pengaturan Cookie"
+  readMore: "En savoir plus"
+  chatBtnText: "Chat with us"
+  productLandingUrl: "semua"
+
+th:
+  article: "บทความ"
+  apply: "ใช้"
+  back: "กลับ"
+  clearAll: "ล้างทั้งหมด"
+  content: "หน้า"
+  filters: "ตัวกรอง"
+  product: "ผลิตภัณฑ์"
+  step: "ขั้นตอนที่"
+  of: "จาก"
+  matchResult: "ดู --petname-- เพื่อโภชนาการที่เหมาะสมตามคำแนะนำด้านล่าง"
+  matchNoresult: "ขออภัย ไม่มีผลิตภัณฑ์ที่ตรงกัน คุณต้องการลองค้นหาอีกครั้งหรือไม่?"
+  share: "แบ่งปัน"
+  all: "ทั้งหมด"
+  cookieRigthText: "คุณยอมรับข้อกำหนดและยินยอมให้เราจัดเก็บคุ้กกี้?"
+  learnMoreText: "เรียนรู้เพิ่มเติม"
+  cookieText: "การตั้งค่าคุกกี้"
+  chatBtnText: "Chat with us"
+  readMore: "อ่านต่อ"
+  productLandingUrl: "all"
+  view: "เรียนรู้เพิ่มเติม"
+  calculator:
+    name: "ชื่อน้องหมาของคุณ"
+    mixedFeeding: "แบบผสม"
+    dryFeeding: "แบบเม็ด"
+    wetFeeding: "แบบเปียก"
+    dryFood: "อาหารเม็ด"
+    wetFood: "อาหารเปียก"
+    careFood: "ขนมขัดฟัน"
+    kg: "กก."
+    mixedInfo: "*อาหารเปียกแบบเพาช์มีปริมาณ 100 กรัม แบบแคนมีปริมาณ 400 กรัม"
+    wetInfo: "*แบบแคนมีปริมาณ 400 กรัม"
+    addPouch: "แบบเพาช์"
+    addCan: "แบบแคน"
+    calorie: "แคลอรี่ "
+    stick: "1 แท่ง/วัน"
+    g: "กรัม"
+    ages:
+      0: "เลือกอายุน้องหมา"
+      2: "2 เดือน"
+      4: "4 เดือน"
+      6: "6 เดือน"
+      9: "9 เดือน"
+      12: "12 เดือน"
+      18: "18 เดือน"
+      24: "2 ปี"
+      36: "3 ปี"
+      48: "4 ปี"
+      60: "5 ปี"
+      72: "6 ปี"
+      84: "7 ปี"
+      96: "8 ปี"
+      108: "9 ปี"
+      120: "10 ปี"
+      132: "11 ปี"
+      144: "12 ปี"
+      156: "13 ปี"
+      168: "14 ปี"
+      180: "15 ปี"
+      192: "16 ปี"
+      204: "17 ปี"
+      216: "18 ปี"
+      228: "19 ปี"
+      240: "20 ปี"
+  guaranteedAnalysis:
+    field_cassia_gum: 'Gomme Cassia'
+    field_coppersulpenta: 'Cuivre (Sulfate De Cuivre (Ii) Pentahydraté)'
+    field_biotin: 'Biotine'
+    field_calcium_iodate: 'Iode (Iodate De Calcium, Anhydre)'
+    field_iodine: 'Iode (Iodure De Potassium)'
+    field_manganese: 'Manganèse (Sulfate Manganeux, Monohydraté)'
+    field_mgsulmonohyd: 'Manganèse (Sulfate Manganeux, Monohydraté)'
+    field_selenium: 'Sélénium (Sélénite De Sodium)'
+    field_vitamin_a: 'Vitamine A'
+    field_vitamin_b1: 'Vitamine B1'
+    field_vitamin_b12: 'Vitamine B12'
+    field_vitamin_b2: 'Vitamine B2'
+    field_vitamin_b3: 'Vitamine B3'
+    field_vitamin_b5: 'Vitamine B5'
+    field_vitamin_b6: 'Vitamine B6'
+    field_vitamin_b9: 'Vitamine B9'
+    field_vitamin_d3: 'Vitamine D3'
+    field_vitamin_e: 'Vitamine E'
+    field_zincsulmono: 'Zinc (Sulfate De Zinc, Monohydraté)'
+    field_taurine: 'Taurina (Mín.)'
+    field_fat_content: 'Teneur En Matières Grasses'
+    field_omega3: 'Acides Gras Oméga-3'
+    field_omega6: 'Acides Gras Oméga-6'
+    field_phosphorus: 'Fósforo (Mín.-Máx.)'
+    field_calcium: 'Calcio (Mín.-Máx.)'
+    field_inorg_matter_nu: 'Matière Inorganique'
+    field_magnesium: 'Magnésium'
+    field_crude_protein: 'โปรตีน (ไม่น้อยกว่า)'
+    field_lactose: 'Lactose'
+    field_moisture: 'ความชื้น (ไม่มากกว่า)'
+    field_energy_kcal: 'Valeur Énergétique'
+    field_iron: 'Fer (Sulfate De Fer (II), MonohydratIé)'
+    field_sodium_nitrite: 'Nitrite de Sodium'
+    field_additive_flavour: ''
+    field_crude_fat_min: 'ไขมัน (ไม่น้อยกว่า)'
+    field_crude_fat_max: 'Grasa Cruda (Máx.)'
+    field_crude_fiber: 'กาก (ไม่มากกว่า)'
+    field_ash: 'Ceniza (Máx.)'
+vn:
+  article: "Bài viết"
+  apply: "ÁP DỤNG"
+  back: "mặt sau"
+  clearAll: "BỎ CHỌN TẤT CẢ"
+  content: "trang"
+  filters: "lọc"
+  product: "Các sản phẩm"
+  step: "Bước"
+  of: "/"
+  share: "Chia sẻ"
+  cookieRigthText: "Bạn có đồng ý với việc sử dụng cookie của chúng tôi không?"
+  learnMoreText: "Tìm hiểu thêm"
+  cookieText: "Cài đặt cookie"
+  chatBtnText: "Chat with us"
+  productLandingUrl: "tat-ca-cac"
+  productLandingUrlText: "Tất cả các"
+  readMore: "Đọc thêm"
+  view: "Tìm hiểu thêm"
+ar:
+  article: "ARTICLE"
+  apply: "Aplicar"
+  back: "BACK"
+  clearAll: "Limpiar todo"
+  content: "PAGE"
+  filters: "Filtros"
+  product: "PRODUCT"
+  step: "PASO"
+  of: "DE"
+  matchResult: "See --petname--'s tailored nutrition recommendation below."
+  matchNoresult: "Unfortunately, we don’t have a product that matches. Would you like to try another search?"
+  share: "Compartir"
+  cookieRigthText: ""
+  adoptionDesc: "Please select an option below"
+  pollVote: "Vote"
+  pollResult: "See Results"
+  learnMoreText: "Aprende más"
+  cookieText: "Cookie Settings"
+  view: "Aprende más"
+  readMore: "Ver más"
+  chatBtnText: "Chat with us"
+  productLandingUrl: "alimento-para-perro"
+  guaranteedAnalysis:
+    field_cassia_gum: 'Gomme Cassia'
+    field_coppersulpenta: 'Cuivre (Sulfate De Cuivre (Ii) Pentahydraté)'
+    field_biotin: 'Biotine'
+    field_calcium_iodate: 'Iode (Iodate De Calcium, Anhydre)'
+    field_iodine: 'Iode (Iodure De Potassium)'
+    field_manganese: 'Manganèse (Sulfate Manganeux, Monohydraté)'
+    field_mgsulmonohyd: 'Manganèse (Sulfate Manganeux, Monohydraté)'
+    field_selenium: 'Sélénium (Sélénite De Sodium)'
+    field_vitamin_a: 'Vitamine A'
+    field_vitamin_b1: 'Vitamine B1'
+    field_vitamin_b12: 'Vitamine B12'
+    field_vitamin_b2: 'Vitamine B2'
+    field_vitamin_b3: 'Vitamine B3'
+    field_vitamin_b5: 'Vitamine B5'
+    field_vitamin_b6: 'Vitamine B6'
+    field_vitamin_b9: 'Vitamine B9'
+    field_vitamin_d3: 'Vitamine D3'
+    field_vitamin_e: 'Vitamine E'
+    field_zincsulmono: 'Zinc (Sulfate De Zinc, Monohydraté)'
+    field_taurine: 'Taurina (Mín.)'
+    field_fat_content: 'Teneur En Matières Grasses'
+    field_omega3: 'Acides Gras Oméga-3'
+    field_omega6: 'Acides Gras Oméga-6'
+    field_phosphorus: 'Fósforo (Mín.-Máx.)'
+    field_calcium: 'Calcio (Mín.-Máx.)'
+    field_inorg_matter_nu: 'Matière Inorganique'
+    field_magnesium: 'Magnésium'
+    field_crude_protein: 'Proteína Cruda (Mín.)'
+    field_lactose: 'Lactose'
+    field_moisture: 'Humedad (Máx.)'
+    field_energy_kcal: 'Valeur Énergétique'
+    field_iron: 'Fer (Sulfate De Fer (II), MonohydratIé)'
+    field_sodium_nitrite: 'Nitrite de Sodium'
+    field_additive_flavour: ''
+    field_crude_fat_min: 'Grasa Cruda (Mín.)'
+    field_crude_fat_max: 'Grasa Cruda (Máx.)'
+    field_crude_fiber: 'Fibra Cruda (Máx.)'
+    field_ash: 'Ceniza (Máx.)'
+mx:
+  article: "ARTICLE"
+  apply: "Aplicar"
+  back: "BACK"
+  clearAll: "Limpiar todo"
+  content: "PAGE"
+  filters: "Filtros"
+  product: "PRODUCT"
+  step: "PASO"
+  of: "DE"
+  matchResult: "See --petname--'s tailored nutrition recommendation below."
+  matchNoresult: "Unfortunately, we don’t have a product that matches. Would you like to try another search?"
+  share: "Cuota"
+  cookieRigthText: ""
+  adoptionDesc: "Please select an option below"
+  pollVote: "Vote"
+  pollResult: "See Results"
+  learnMoreText: "Aprende más"
+  cookieText: "Configuración de cookies"
+  chatBtnText: "Chat with us"
+  readMore: "Ver más"
+  view: "Aprende más"
+  productLandingUrl: "alimento-para-perro"
+  guaranteedAnalysis:
+    field_cassia_gum: 'Gomme Cassia'
+    field_coppersulpenta: 'Cuivre (Sulfate De Cuivre (Ii) Pentahydraté)'
+    field_biotin: 'Biotine'
+    field_calcium_iodate: 'Iode (Iodate De Calcium, Anhydre)'
+    field_iodine: 'Iode (Iodure De Potassium)'
+    field_manganese: 'Manganèse (Sulfate Manganeux, Monohydraté)'
+    field_mgsulmonohyd: 'Manganèse (Sulfate Manganeux, Monohydraté)'
+    field_selenium: 'Sélénium (Sélénite De Sodium)'
+    field_vitamin_a: 'Vitamine A'
+    field_vitamin_b1: 'Vitamine B1'
+    field_vitamin_b12: 'Vitamine B12'
+    field_vitamin_b2: 'Vitamine B2'
+    field_vitamin_b3: 'Vitamine B3'
+    field_vitamin_b5: 'Vitamine B5'
+    field_vitamin_b6: 'Vitamine B6'
+    field_vitamin_b9: 'Vitamine B9'
+    field_vitamin_d3: 'Vitamine D3'
+    field_vitamin_e: 'Vitamine E'
+    field_zincsulmono: 'Zinc (Sulfate De Zinc, Monohydraté)'
+    field_taurine: 'Taurina (Mín.)'
+    field_fat_content: 'Teneur En Matières Grasses'
+    field_omega3: 'Acides Gras Oméga-3'
+    field_omega6: 'Acides Gras Oméga-6'
+    field_phosphorus: 'Fósforo (Mín.-Máx.)'
+    field_calcium: 'Calcio (Mín.-Máx.)'
+    field_inorg_matter_nu: 'Matière Inorganique'
+    field_magnesium: 'Magnésium'
+    field_crude_protein: 'Proteína Cruda (Mín.)'
+    field_lactose: 'Lactose'
+    field_moisture: 'Humedad (Máx.)'
+    field_energy_kcal: 'Valeur Énergétique'
+    field_iron: 'Fer (Sulfate De Fer (II), MonohydratIé)'
+    field_sodium_nitrite: 'Nitrite de Sodium'
+    field_additive_flavour: ''
+    field_crude_fat_min: 'Grasa Cruda (Mín.)'
+    field_crude_fat_max: 'Grasa Cruda (Máx.)'
+    field_crude_fiber: 'Fibra Cruda (Máx.)'
+    field_ash: 'Ceniza (Máx.)'
+br:
+  article: "Artigo"
+  apply: "Aplicar"
+  back: "DE VOLTA"
+  clearAll: "Limpar tudo"
+  content: "Página"
+  filters: "Filtros"
+  product: "Produto"
+  step: "Passo"
+  of: "de"
+  matchResult: "Veja  --petname-- a recomendação nutricional personalizada abaixo."
+  matchNoresult: "Infelizmente nós não temos um produto para essa busca. Você gostaria de tentar outra busca?"
+  share: "Compartilhe"
+  cookieRigthText: ""
+  adoptionDesc: "Please select an option below"
+  pollVote: "Vote"
+  pollResult: "Ver resultados"
+  learnMoreText: "Saiba mais"
+  cookieText: "Configurações de Cookie"
+  readMore: "Leia mais"
+  view: "Veja"
+  chatBtnText: "Converse conosco"
+  productLandingUrl: "alimento-para-caes"
+  guaranteedAnalysis:
+    field_cassia_gum: 'Gomme Cassia'
+    field_coppersulpenta: 'Cuivre (Sulfate De Cuivre (Ii) Pentahydraté)'
+    field_biotin: 'Biotine'
+    field_calcium_iodate: 'Iode (Iodate De Calcium, Anhydre)'
+    field_iodine: 'Iode (Iodure De Potassium)'
+    field_manganese: 'Manganèse (Sulfate Manganeux, Monohydraté)'
+    field_mgsulmonohyd: 'Manganèse (Sulfate Manganeux, Monohydraté)'
+    field_selenium: 'Sélénium (Sélénite De Sodium)'
+    field_vitamin_a: 'Vitamine A'
+    field_vitamin_b1: 'Vitamine B1'
+    field_vitamin_b12: 'Vitamine B12'
+    field_vitamin_b2: 'Vitamine B2'
+    field_vitamin_b3: 'Vitamine B3'
+    field_vitamin_b5: 'Vitamine B5'
+    field_vitamin_b6: 'Vitamine B6'
+    field_vitamin_b9: 'Vitamine B9'
+    field_vitamin_d3: 'Vitamine D3'
+    field_vitamin_e: 'Vitamine E'
+    field_zincsulmono: 'Zinc (Sulfate De Zinc, Monohydraté)'
+    field_taurine: 'Taurina (Mín.)'
+    field_fat_content: 'Teneur En Matières Grasses'
+    field_omega3: 'Acides Gras Oméga-3'
+    field_omega6: 'Acides Gras Oméga-6'
+    field_phosphorus: 'Fósforo (Mín.-Máx.)'
+    field_calcium: 'Calcio (Mín.-Máx.)'
+    field_inorg_matter_nu: 'Matière Inorganique'
+    field_magnesium: 'Magnésium'
+    field_crude_protein: 'Proteína Cruda (Mín.)'
+    field_lactose: 'Lactose'
+    field_moisture: 'Humedad (Máx.)'
+    field_energy_kcal: 'Valeur Énergétique'
+    field_iron: 'Fer (Sulfate De Fer (II), MonohydratIé)'
+    field_sodium_nitrite: 'Nitrite de Sodium'
+    field_additive_flavour: ''
+    field_crude_fat_min: "Grasa Cruda (Mín.)"
+    field_crude_fat_max: "Grasa Cruda (Máx.)"
+    field_crude_fiber: "Fibra Cruda (Máx.)"
+    field_ash: "Ceniza (Máx.)"
+cl:
+  article: "Artículos"
+  apply: "Aplicar"
+  back: "BACK"
+  clearAll: "Limpiar todo"
+  content: "PAGE"
+  filters: "Filtros"
+  product: "PRODUCTO"
+  step: "PASO"
+  of: "DE"
+  matchResult: "See --petname--'s tailored nutrition recommendation below."
+  matchNoresult: "Unfortunately, we don’t have a product that matches. Would you like to try another search?"
+  share: "Compartir"
+  cookieRigthText: ""
+  adoptionDesc: "Please select an option below"
+  pollVote: "Vote"
+  pollResult: "See Results"
+  learnMoreText: "Aprende más"
+  cookieText: "Configuración de cookies"
+  view: "Aprende más"
+  readMore: "Ver más"
+  chatBtnText: "Chat with us"
+  productLandingUrl: "alimento-para-perro"
+  guaranteedAnalysis:
+    field_cassia_gum: 'Gomme Cassia'
+    field_coppersulpenta: 'Cuivre (Sulfate De Cuivre (Ii) Pentahydraté)'
+    field_biotin: 'Biotine'
+    field_calcium_iodate: 'Iode (Iodate De Calcium, Anhydre)'
+    field_iodine: 'Iode (Iodure De Potassium)'
+    field_manganese: 'Manganèse (Sulfate Manganeux, Monohydraté)'
+    field_mgsulmonohyd: 'Manganèse (Sulfate Manganeux, Monohydraté)'
+    field_selenium: 'Sélénium (Sélénite De Sodium)'
+    field_vitamin_a: 'Vitamine A'
+    field_vitamin_b1: 'Vitamine B1'
+    field_vitamin_b12: 'Vitamine B12'
+    field_vitamin_b2: 'Vitamine B2'
+    field_vitamin_b3: 'Vitamine B3'
+    field_vitamin_b5: 'Vitamine B5'
+    field_vitamin_b6: 'Vitamine B6'
+    field_vitamin_b9: 'Vitamine B9'
+    field_vitamin_d3: 'Vitamine D3'
+    field_vitamin_e: 'Vitamine E'
+    field_zincsulmono: 'Zinc (Sulfate De Zinc, Monohydraté)'
+    field_taurine: 'Taurina (Mín.)'
+    field_fat_content: 'Teneur En Matières Grasses'
+    field_omega3: 'Acides Gras Oméga-3'
+    field_omega6: 'Acides Gras Oméga-6'
+    field_phosphorus: 'Fósforo (Mín.-Máx.)'
+    field_calcium: 'Calcio (Mín.-Máx.)'
+    field_inorg_matter_nu: 'Matière Inorganique'
+    field_magnesium: 'Magnésium'
+    field_crude_protein: 'Proteína Cruda (Mín.)'
+    field_lactose: 'Lactose'
+    field_moisture: 'Humedad (Máx.)'
+    field_energy_kcal: 'Valeur Énergétique'
+    field_iron: 'Fer (Sulfate De Fer (II), MonohydratIé)'
+    field_sodium_nitrite: 'Nitrite de Sodium'
+    field_additive_flavour: ''
+    field_crude_fat_min: 'Grasa Cruda (Mín.)'
+    field_crude_fat_max: 'Grasa Cruda (Máx.)'
+    field_crude_fiber: 'Fibra Cruda (Máx.)'
+    field_ash: 'Ceniza (Máx.)'
+ph:
+  article: "ARTICLE"
+  apply: "APPLY"
+  back: "BACK"
+  clearAll: "CLEAR ALL"
+  content: "PAGE"
+  filters: "Filters"
+  product: "PRODUCT"
+  step: "STEP"
+  of: "OF"
+  matchResult: "See --petname--'s tailored nutrition recommendation below."
+  matchNoresult: "Unfortunately, we don’t have a product that matches. Would you like to try another search?"
+  share: "Share"
+  cookieRigthText: "You ok with our use of cookies?"
+  adoptionDesc: "Please select an option below"
+  pollVote: "Vote"
+  pollResult: "See Results (Admin only)"
+  learnMoreText: "Learn more"
+  cookieText: "Cookie Settings"
+  chatBtnText: "Chat with us"
+  view: "View"
+  readMore: " Read more"
+  productLandingUrl: "dog-food"
+  calculator:
+    name: "Name"
+    mixedFeeding: "Mixed Feeding"
+    dryFeeding: "Dry Only"
+    wetFeeding: "Wet Only"
+    dryFood: "Dry Food"
+    wetFood: "Wet Food"
+    careFood: "Care"
+    kg: "kg"
+    mixedInfo: "*A pouch is 100g and a can 400g"
+    wetInfo: "*A can 400g"
+    addPouch: "Add pouch"
+    addCan: "Add can"
+    calorie: "calories"
+    stick: "1 stick a day"
+    g: "g"
+    ages:
+      0: "Pick Age"
+      2: "2 months"
+      4: "4 months"
+      6: "6 months"
+      9: "9 months"
+      12: "12 months"
+      18: "18 months"
+      24: "2 years"
+      36: "3 years"
+      48: "4 years"
+      60: "5 years"
+      72: "6 years"
+      84: "7 years"
+      96: "8 years"
+      108: "9 years"
+      120: "10 years"
+      132: "11 years"
+      144: "12 years"
+      156: "13 years"
+      168: "14 years"
+      180: "15 years"
+      192: "16 years"
+      204: "17 years"
+      216: "18 years"
+      228: "19 years"
+      240: "20 years"
+  guaranteedAnalysis:
+    field_crude_protein: "Crude Protein"
+    field_crude_fat_min: "Crude Fat (min.)"
+    field_crude_fat_max: "Crude Fat (max.)"
+    field_crude_fiber: "Crude Fiber"
+    field_ash: "Ash"
+    field_linoleic_acid: "Linoleic Acid"
+    field_doco_acid: "Docosahexaenoic Acid (DHA)"
+    field_calcium: "Calcium"
+    field_phosphorus: "Phosphorus"
+    field_potassium: "Potassium"
+    field_magnesium: "Magnesium"
+    field_selenium: "Selenium (Sodium selenite)"
+    field_vitamin_e: "Vitamin E"
+    field_taurine: "Taurine"
+    field_lcarnitine: "L-Carnitine"
+    field_omega3: "Omega-3 Fatty Acids"
+    field_omega6: "Omega-6 Fatty acids"
+    field_beta_carotene: "Beta Carotene"
+    field_glucosamine: "Glucosamine"
+    field_chondroitin: "Chondroitin Sulfate"
+    field_moisture: "Moisture"
+    field_zinc: "Zinc (Zinc sulphate, monohydrate)"
+fr:
+  article: "ARTICLE"
+  apply: "Appliquer"
+  back: "Précédent"
+  clearAll: "Effacer tour"
+  content: "PAGE"
+  filters: "Filtres"
+  product: "Produit"
+  step: "Étape"
+  of: "De"
+  productLandingUrl: "tous-nos-produits"
+  articleLandingUrl: "tous-nos-articles"
+  matchResult: "See --petname--'s tailored nutrition recommendation below."
+  matchNoresult: "Unfortunately, we don’t have a product that matches. Would you like to try another search?"
+  share: "Partagez"
+  cookieRigthText: "Êtes vous d´accord avec notre utilisation des cookies?"
+  adoptionDesc: "Please select an option below"
+  pollVote: "Vote"
+  pollResult: "Voir les résultats (Admin only)"
+  learnMoreText: "En savoir plus"
+  cookieText: "Cookie Settings"
+  chatBtnText: "Chat with us"
+  readMore: "En savoir plus"
+  view: "Voir"
+  calculator:
+    name: "Nom"
+    mixedFeeding: "Alimentation mixte"
+    dryFeeding: "Nourriture sèche seulement"
+    wetFeeding: "Nourriture humide seulement"
+    dryFood: "Nourriture sèche"
+    wetFood: "Nourriture humide"
+    careFood: "Soins buccodentaires"
+    kg: "kg"
+    mixedInfo: "*Sachet = 100 g et boîte = 400 g"
+    wetInfo: "*A can 400g"
+    addPouch: "Ajouter sachets"
+    addCan: "Ajouter boîtes"
+    calorie: "calories"
+    stick: "1 bâtonnet par jour"
+    g: "g"
+    ages:
+      0: "Choisir un âge"
+      2: "2 mois"
+      4: "4 mois"
+      6: "6 mois"
+      9: "9 mois"
+      12: "12 mois"
+      18: "18 mois"
+      24: "2 an(s)"
+      36: "3 an(s)"
+      48: "4 an(s)"
+      60: "5 an(s)"
+      72: "6 an(s)"
+      84: "7 an(s)"
+      96: "8 an(s)"
+      108: "9 an(s)"
+      120: "10 an(s)"
+      132: "11 an(s)"
+      144: "12 an(s)"
+      156: "13 an(s)"
+      168: "14 an(s)"
+      180: "15 an(s)"
+      192: "16 an(s)"
+      204: "17 an(s)"
+      216: "18 an(s)"
+      228: "19 an(s)"
+      240: "20 an(s)"
+  guaranteedAnalysis:
+    field_crude_protein: "Crude Protein"
+    field_crude_fat_min: "Crude Fat (min.)"
+    field_crude_fat_max: "Crude Fat (max.)"
+    field_crude_fiber: "Crude Fiber"
+    field_ash: "Ash"
+    field_linoleic_acid: "Linoleic Acid"
+    field_doco_acid: "Docosahexaenoic Acid (DHA)"
+    field_calcium: "Calcium"
+    field_phosphorus: "Phosphorus"
+    field_potassium: "Potassium"
+    field_magnesium: "Magnesium"
+    field_selenium: "Selenium (Sodium selenite)"
+    field_vitamin_e: "Vitamin E"
+    field_taurine: "Taurine"
+    field_lcarnitine: "L-Carnitine"
+    field_omega3: "Omega-3 Fatty Acids"
+    field_omega6: "Omega-6 Fatty acids"
+    field_beta_carotene: "Beta Carotene"
+    field_glucosamine: "Glucosamine"
+    field_chondroitin: "Chondroitin Sulfate"
+    field_moisture: "Moisture"
+    field_zinc: "Zinc (Zinc sulphate, monohydrate)"
+ca_fr:
+  article: "Articles"
+  apply: "APPLIQUER"
+  back: "RETOUR"
+  clearAll: "EFFACER TOUT"
+  content: "PAGE"
+  filters: "Filtres"
+  filterBy: "Filtrer par"
+  product: "PRODUIT(S)"
+  step: "ÉTAPE"
+  of: "DE"
+  all: "TOUS"
+  matchResult: "See --petname--'s tailored nutrition recommendation below."
+  matchNoresult: "Unfortunately"
+  share: "Partager"
+  shareFacebookLabel: "facebook"
+  shareFacebookTitle: "share on facebook"
+  sharetwitterLabel: "Twitter"
+  sharetwitterTitle: "share on Twitter"
+  sharePinterestLabel: "Pinterest"
+  sharePinterestTitle: "share on Pinterest"
+  filterCountText: "Filtres appliqués: "
+  featuredArticle: "FEATURED ARTICLE"
+  learnMore: "EN SAVOIR PLUS"
+  selectCategory: "Sélectionner une catégorie"
+  prevArticle: "PREVIOUS ARTICLE"
+  nextArticle: "NEXT ARTICLE"
+  waltham: "Allégation AAFCO"
+  redrecyle: "Engagements développement durable"
+  quelfair: "Quelfair"
+  ingredients: "Ingrédients"
+  nutritional_info: "Informations nutritionnelles"
+  product_description: "Description du produit"
+  reviewBtn: "Écrire un avis"
+  varieties: "Varieties"
+  feeding_guideline: "Quantités journalières"
+  diet_transition: "Conseils pour changer l'alimentation de votre chat"
+  bazaarvoice: "Avis"
+  suggestions: "Suggestions"
+  kg_table: "Additifs par kg: Additifs nutritionnels:"
+  percent_table: "Constituants analytiques (%):"
+  other_table: "Additifs par kg: Additifs technologiques:"
+  size: "Tailles: "
+  buynow: "ACHETER"
+  buyNowPopUpHl: "Acheter"
+  buyNowPopUpText: " "
+  readMore: "En savoir plus"
+  learnMoreText: "En savoir plus"
+  productLandingUrl: "tous-les-produits"
+  articleLandingUrl: "tous-les-articles"
+  cookieRigthText: "Êtes vous d´accord avec notre utilisation des cookies ?"
+  cookieLeftText: "Bonjour, amis des chats !"
+  relatedProductLabel: "Vous aimeriez aussi"
+  productResultCount: "Résultats"
+  analytics_statement: ""
+  searchResultCount: "Résultats pour"
+  searchResultAll: "Tous"
+  productTaxonomy:
+    food_type: "Type de produit"
+    lifestage: "Étape de la vie"
+    breed_size: "Taille"
+  guaranteedAnalysis:
+    field_cassia_gum: 'Gomme Cassia'
+    field_coppersulpenta: 'Cuivre (Sulfate De Cuivre (Ii) Pentahydraté)'
+    field_biotin: 'Biotine'
+    field_calcium_iodate: 'Iode (Iodate De Calcium, Anhydre)'
+    field_iodine: 'Iode (Iodure De Potassium)'
+    field_manganese: 'Manganèse (Sulfate Manganeux, Monohydraté)'
+    field_mgsulmonohyd: 'Manganèse (Sulfate Manganeux, Monohydraté)'
+    field_selenium: 'Sélénium (Sélénite De Sodium)'
+    field_vitamin_a: 'Vitamine A'
+    field_vitamin_b1: 'Vitamine B1'
+    field_vitamin_b12: 'Vitamine B12'
+    field_vitamin_b2: 'Vitamine B2'
+    field_vitamin_b3: 'Vitamine B3'
+    field_vitamin_b5: 'Vitamine B5'
+    field_vitamin_b6: 'Vitamine B6'
+    field_vitamin_b9: 'Vitamine B9'
+    field_vitamin_d3: 'Vitamine D3'
+    field_vitamin_e: 'Vitamine E'
+    field_zincsulmono: 'Zinc (Sulfate De Zinc, Monohydraté)'
+    field_taurine: 'Taurine'
+    field_fat_content: 'Teneur En Matières Grasses'
+    field_crude_fiber: 'Cellulose Brute'
+    field_omega3: 'Acides Gras Oméga-3'
+    field_omega6: 'Acides Gras Oméga-6'
+    field_phosphorus: 'Phosphore'
+    field_calcium: 'Calcium'
+    field_inorg_matter_nu: 'Matière Inorganique'
+    field_magnesium: 'Magnésium'
+    field_crude_protein: 'Protéine'
+    field_lactose: 'Lactose'
+    field_moisture: 'Humidité'
+    field_energy_kcal: 'Valeur Énergétique'
+    field_iron: 'Fer (Sulfate De Fer (II), MonohydratIé)'
+    field_sodium_nitrite: 'Nitrite de Sodium'
+    field_additive_flavour: ''
+ca:
+  article: "ARTICLE"
+  apply: "APPLY"
+  back: "BACK"
+  clearAll: "CLEAR ALL"
+  content: "PAGE"
+  filters: "FILTER"
+  filterBy: "Filter by"
+  product: "PRODUCT"
+  step: "STEP"
+  of: "OF"
+  all: "ALL"
+  matchResult: "See --petname--'s tailored nutrition recommendation below."
+  matchNoresult: "Unfortunately, we don’t have a product that matches. Would you like to try another search?"
+  share: "Share"
+  shareFacebookLabel: "facebook"
+  shareFacebookTitle: "share on facebook"
+  sharetwitterLabel: "Twitter"
+  sharetwitterTitle: "share on Twitter"
+  sharePinterestLabel: "Pinterest"
+  sharePinterestTitle: "share on Pinterest"
+  filterCountText: "Applied Filters"
+  featuredArticle: "FEATURED ARTICLE"
+  learnMore: "LEARN MORE"
+  selectCategory: "SELECT CATEGORY"
+  prevArticle: "PREVIOUS ARTICLE"
+  nextArticle: "NEXT ARTICLE"
+  waltham: "AAFCO Statement"
+  redrecyle: "Red Recycle"
+  quelfair: "Quelfair"
+  ingredients: "Ingredients"
+  nutritional_info: "Nutritional Info"
+  product_description: "Product Description"
+  reviewBtn: "Write a review"
+  varieties: "Varieties"
+  feeding_guideline: "Feeding Guideline"
+  diet_transition: "Diet Transition"
+  bazaarvoice: "Reviews"
+  suggestions: "Suggestions"
+  kg_table: "Additives per kg: Nutritional additives:"
+  percent_table: "Analytical constituents (%):"
+  other_table: "Technological additives:"
+  buynow: "BUY NOW"
+  readMore: "Read more"
+  size: "Sizes: "
+  cookieRigthText: "You ok with our use of cookies?"
+  cookieLeftText: "Hi dog lovers!"
+  relatedProductLabel: "Your dog may also like"
+  learnMoreText: "Learn more"
+  analytics_statement: ""
+  productResultCount: "Results"
+  searchResultCount: "Results for"
+  buyNowPopUpHl: "Buy Now"
+  buyNowPopUpText: "Click to buy from any of the retailers below"
+  searchResultAll: "All"
+  productTaxonomy:
+    food_type: "Product Type"
+    lifestage: "Life Stage"
+    breed_size: "Size"
+  guaranteedAnalysis:
+    field_crude_protein: "Crude Protein"
+    field_crude_fat_min: "Crude Fat (min.)"
+    field_crude_fat_max: "Crude Fat (max.)"
+    field_crude_fiber: "Crude Fiber"
+    field_ash: "Ash"
+    field_linoleic_acid: "Linoleic Acid"
+    field_doco_acid: "Docosahexaenoic Acid (DHA)"
+    field_calcium: "Calcium"
+    field_phosphorus: "Phosphorus"
+    field_potassium: "Potassium"
+    field_magnesium: "Magnesium"
+    field_selenium: "Selenium (Sodium selenite)"
+    field_vitamin_e: "Vitamin E"
+    field_taurine: "Taurine"
+    field_lcarnitine: "L-Carnitine"
+    field_omega3: "Omega-3 Fatty Acids"
+    field_omega6: "Omega-6 Fatty acids"
+    field_beta_carotene: "Beta Carotene"
+    field_glucosamine: "Glucosamine"
+    field_chondroitin: "Chondroitin Sulfate"
+    field_moisture: "Moisture"
+    field_zinc: "Zinc (Zinc sulphate, monohydrate)"
+de:
+  apply: "Bestätigen"
+  clearAll: "Alle löschen"
+  filters: "Filtern"
+  step: "Schritt"
+  of: "von"
+  learnMoreText: "Jetzt entdecken"
+  readMore: "Mehr erfahren"
+  pollVote: "SENDEN"
+  pollResult: "See Results (Admin only)"
+  productLandingUrl: "alle-produkte"
+my: 
+  article: "ARTICLE"
+  apply: "APPLY"
+  back: "BACK"
+  clearAll: "CLEAR ALL"
+  content: "PAGE"
+  filters: "Filters"
+  product: "PRODUCT"
+  step: "STEP"
+  of: "OF"
+  matchResult: "See --petname--'s tailored nutrition recommendation below."
+  matchNoresult: "Unfortunately"
+  share: "Share"
+  cookieRigthText: "You ok with our use of cookies?"
+  adoptionDesc: "Please select an option below"
+  pollVote: "Vote"
+  pollResult: "See Results (Admin only)"
+  cookieText: "Cookie Settings"
+  chatBtnText: "Chat with us"
+  productLandingUrl: "dog-food"
+  learnMoreText: "Learn more"
+  readMore: "Read more"
+  view: "View"
+  calculator:
+    name: "Name"
+    mixedFeeding: "Mixed Feeding"
+    dryFeeding: "Dry Only"
+    wetFeeding: "Wet Only"
+    dryFood: "Dry Food"
+    wetFood: "Wet Food"
+    careFood: "Care"
+    kg: "kg"
+    mixedInfo: "*A pouch is 100g and a can 400g"
+    wetInfo: "*A can 400g"
+    addPouch: "Add pouch"
+    addCan: "Add can"
+    calorie: "calories"
+    stick: "1 stick a day"
+    g: "g"
+    ages:
+      0: "Pick Age"
+      2: "2 months"
+      4: "4 months"
+      6: "6 months"
+      9: "9 months"
+      12: "12 months"
+      18: "18 months"
+      24: "2 years"
+      36: "3 years"
+      48: "4 years"
+      60: "5 years"
+      72: "6 years"
+      84: "7 years"
+      96: "8 years"
+      108: "9 years"
+      120: "10 years"
+      132: "11 years"
+      144: "12 years"
+      156: "13 years"
+      168: "14 years"
+      180: "15 years"
+      192: "16 years"
+      204: "17 years"
+      216: "18 years"
+      228: "19 years"
+      240: "20 years"
+  guaranteedAnalysis:
+    field_crude_protein: "Crude Protein"
+    field_crude_fat_min: "Crude Fat (min.)"
+    field_crude_fat_max: "Crude Fat (max.)"
+    field_crude_fiber: "Crude Fiber"
+    field_ash: "Ash"
+    field_linoleic_acid: "Linoleic Acid"
+    field_doco_acid: "Docosahexaenoic Acid (DHA)"
+    field_calcium: "Calcium"
+    field_phosphorus: "Phosphorus"
+    field_potassium: "Potassium"
+    field_magnesium: "Magnesium"
+    field_selenium: "Selenium (Sodium selenite)"
+    field_vitamin_e: "Vitamin E"
+    field_taurine: "Taurine"
+    field_lcarnitine: "L-Carnitine"
+    field_omega3: "Omega-3 Fatty Acids"
+    field_omega6: "Omega-6 Fatty acids"
+    field_beta_carotene: "Beta Carotene"
+    field_glucosamine: "Glucosamine"
+    field_chondroitin: "Chondroitin Sulfate"
+    field_moisture: "Moisture"
+    field_zinc: "Zinc (Zinc sulphate)"
+  buynow: "Buy Now"
+pl:
+  apply: "Zastosuj"
+  clearAll:  "Wyczyść"
+  step:  "Krok"
+  learnMoreText: "Dowiedz się więcej"
+  readMore: "Czytaj więcej"
+  of: "/"
+  filters: "Filtry"
+  productLandingUrl: "lista-produktow"
+nl:
+  article: "ARTICLE"
+  apply: "APPLY"
+  back: "BACK"
+  clearAll: "CLEAR ALL"
+  content: "PAGE"
+  filters: "Filters"
+  product: "PRODUCT"
+  step: "STEP"
+  of: "OF"
+  redrecyle: "RED RECYCLE"
+  matchResult: "See --petname--'s tailored nutrition recommendation below."
+  matchNoresult: "Unfortunately, we don’t have a product that matches. Would you like to try another search?"
+  share: "Share"
+  cookieRigthText: "You ok with our use of cookies?"
+  adoptionDesc: "Please select an option below"
+  pollVote: "Vote"
+  pollResult: "See Results (Admin only)"
+  cookieText: "Cookie Settings"
+  chatBtnText: "Chat with us"
+  productLandingUrl: "all-products"
+  view: "View"
+  waltham: "WALTHAM"
+  # buynow: "Buy online"
+  learnMoreText: "Learn more"
+  readMore: "Read more"
+  calculator:
+    name: "Naam"
+    mixedFeeding: "Gemixt dieet"
+    dryFeeding: "Alleen droogvoer"
+    wetFeeding: "Alleen natvoer"
+    dryFood: "Droogvoer"
+    wetFood: "Natvoer"
+    careFood: "Verzorging"
+    kg: "kg"
+    mixedInfo: "*Een pouch is 100g en een blik 400g"
+    wetInfo: "*een 400g bik"
+    addPouch: "Voeg maaltijdzakje toe"
+    addCan: "Voeg blik toe"
+    calorie: "calorieën"
+    stick: "1 stick per dag"
+    g: "g"
+    ages:
+      0: "Kies een leeftijd"
+      2: "2 maanden"
+      4: "4 maanden"
+      6: "6 maanden"
+      9: "9 maanden"
+      12: "12 maanden"
+      18: "18 maanden"
+      24: "2 jaar"
+      36: "3 jaar"
+      48: "4 jaar"
+      60: "5 jaar"
+      72: "6 jaar"
+      84: "7 jaar"
+      96: "8 jaar"
+      108: "9 jaar"
+      120: "10 jaar"
+      132: "11 jaar"
+      144: "12 jaar"
+      156: "13 jaar"
+      168: "14 jaar"
+      180: "15 jaar"
+      192: "16 jaar"
+      204: "17 jaar"
+      216: "18 jaar"
+      228: "19 jaar"
+      240: "20 jaar"
+  guaranteedAnalysis:
+    field_crude_protein: "Crude Protein"
+    field_crude_fat_min: "Crude Fat (min.)"
+    field_crude_fat_max: "Crude Fat (max.)"
+    field_crude_fiber: "Crude Fiber"
+    field_ash: "Ash"
+    field_linoleic_acid: "Linoleic Acid"
+    field_doco_acid: "Docosahexaenoic Acid (DHA)"
+    field_calcium: "Calcium"
+    field_phosphorus: "Phosphorus"
+    field_potassium: "Potassium"
+    field_magnesium: "Magnesium"
+    field_selenium: "Selenium (Sodium selenite)"
+    field_vitamin_e: "Vitamin E"
+    field_taurine: "Taurine"
+    field_lcarnitine: "L-Carnitine"
+    field_omega3: "Omega-3 Fatty Acids"
+    field_omega6: "Omega-6 Fatty acids"
+    field_beta_carotene: "Beta Carotene"
+    field_glucosamine: "Glucosamine"
+    field_chondroitin: "Chondroitin Sulfate"
+    field_moisture: "Moisture"
+    field_zinc: "Zinc (Zinc sulphate, monohydrate)"

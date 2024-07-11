@@ -1,0 +1,74 @@
+# Color.
+# ----------------------------
+color_a: '#490e00'
+color_b: '#e62b1e'
+color_c: '#eaaa00'
+color_d: '#f9f1db'
+color_e: '#ffffff'
+color_f: '#4c4c4c'
+cta_text_color: '#ffffff'
+card_background: '#4c4c4c'
+card_title: '#490e00'
+card_eyebrow: '#490e00'
+top_nav: '#eaaa00'
+top_nav_gradient: '#f9f1db'
+footer_top: '#eaaa00'
+footer_top_gradient: '#f9f1db'
+language_region_selector_text_color: '#490e00'
+product_filter_arrow_color: '#e62b1e'
+product_filter_clearall_color: '#e62b1e'
+product_filter_tickmark_color: '#f9f1db'
+entrygate_background_color: '#f9f1db'
+entrygate_title_color: '#490e00'
+entrygate_text_color: '#490e00'
+entrygate_date_color: '#490e00'
+entrygate_alert_color: '#e62b1e'
+supercharged_freeform_text_color: '#490e00'
+supercharged_freeform_background_color: '#490e00'
+supercharged_freeform_link_text_color: '#490e00'
+supercharged_freeform_button_background_color: '#490e00'
+supercharged_card_text_color: '#e62b1e'
+supercharged_card_background_color: '#e62b1e'
+supercharged_card_link_text_color: '#e62b1e'
+supercharged_card_button_background_color: '#e62b1e'
+cookie_banner: '#eaaa00'
+cookie_banner_gradient: '#f9f1db'
+cookie_banner_text: '#490e00'
+cookie_banner_close: '#490e00'
+cookie_banner_brand_border: FALSE
+cookie_banner_override: FALSE
+bottom_nav: '#e62b1e'
+breadcrumb_link: '#e62b1e'
+breadcrumb_text: '#4c4c4c'
+breadcrumb_hover: '#490e00'
+breadcrumb_bg_color: '#ffffff'
+
+# Font.
+# ----------------------------
+headline_font_path: 'font1'
+primary_font_path: 'font2'
+secondary_font_path: 'font3'
+
+# Icons.
+# ----------------------------
+graphic_divider: { }
+brand_shape: { }
+brand_borders: { }
+brand_borders_2: { }
+png_asset: { }
+button_style: 0
+
+# Product layout settings.
+# ----------------------------
+show_allergen_info: false
+
+# Product rating and reviews settings.
+# ----------------------------
+show_rating_and_reviews: true
+
+# Social links.
+# ----------------------------
+social_links:
+  - name: 'facebook'
+    link: 'facebook.com'
+    icon: 'social_icon1'
